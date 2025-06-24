@@ -2,4 +2,4 @@
 
 ### Hi, C.J here 👋 **I write smart contracts 📃**
 
-Born and bred in London, United Kingdom. Often working in the APAC region.
+London, United Kingdom. Often working in the APAC region.
