@@ -29,7 +29,7 @@
 
 ## Selected work
 
--   🧱 **Protocol Tooling Starter (Kadena Multi Chain Scaffold)** – opinionated EVM template with Foundry + CI **[repo ›](https://github.com/0xTrip/scaffold-kadena)**
+-   🧱 **Protocol Tooling Starter (Kadena Multi Chain Scaffold)** – EVM template with Custom Hardhat and Foundry plugins **[repo ›](https://github.com/0xTrip/scaffold-kadena)**
        
 -   🎥 **Live-coding: Get on chain in 5 minutes (ETH Global)** – **[video ›](https://www.youtube.com/watch?v=Qd6THrawTNw)**
     
