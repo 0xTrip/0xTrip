@@ -20,8 +20,6 @@
 -   🤝 **Community**: bridging protocol teams and builders
     
 
-## The stack I reach for (and build for)
-
 **Contracts**: `Solidity` · `Foundry` · `Hardhat` · `OpenZeppelin`
 
 **Frontend/SDK**: `TypeScript` · `Ethers.js` · `viem` · `Next.js`
