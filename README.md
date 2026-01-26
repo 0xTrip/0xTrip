@@ -1,47 +1,37 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=F70000&multiline=true&random=false&width=435&lines=C.J+Freeman;Decentralise)](https://git.io/typing-svg)
+# C.J Freeman
 
-----------
+**Director of Developer Relations** | Building developer ecosystems in blockchain infrastructure
 
-### Hi, C.J here 👋 I write smart contracts
+8+ years leading developer relations for emerging protocols. I build the programs, tooling, and teams that turn complex technology into thriving developer communities.
 
-**Developer Relations** for emerging protocols • Building tools that make web3 devs move faster • Based in **London, United Kingdom**.
+---
 
-*The lack of updates is due to private repo work.*
+### Background
 
-----------
-## What I'm focused on
+Currently leading Developer Relations at Kadena, where I've built global hackathon programs, established developer advocate pipelines, and shipped tooling that accelerates time-to-first-deploy.
 
--   ✍️ Secure, gas‑aware **smart contracts** (auditable patterns, upgradeability where it makes sense)
-    
--   🧰 **Dev tooling** (scaffolds, CLIs, SDKs, CI flows)
-    
--   📚 **Education & advocacy** (demos, talks, starter kits)
-    
--   🤝 **Community**: bridging protocol teams and builders
-    
+Previously: Chainflip (APAC DevRel), Thunderhead (Head of DevRel), Pocket Network (Technical Advisor), Chainlink (Community Advocate).
 
-**Contracts**: `Solidity` · `Foundry` · `Hardhat` · `OpenZeppelin`
+Before crypto: British Army officer, firefighter, and co-founder of a startup scaled to £1.6M valuation.
 
-**Frontend/SDK**: `TypeScript` · `Ethers.js` · `viem` · `Next.js`
+### What I Build
 
+**Developer Programs** — Hackathons, workshops, advocate programs, and education initiatives across Asia, Europe, and North America.
 
-## Selected work
+**Tooling & Infrastructure** — Scaffold frameworks, Hardhat/Foundry integrations, and CLI tools that reduce onboarding friction.
 
--   🧱 **Protocol Tooling Starter (Kadena Multi Chain Scaffold)** – EVM template with Custom Hardhat and Foundry plugins **[repo ›](https://github.com/0xTrip/scaffold-kadena)**
-       
--   🎥 **Live-coding: Get on chain in 5 minutes (ETH Global)** – **[video ›](https://www.youtube.com/watch?v=Qd6THrawTNw)**
-    
+**Technical Content** — Author of *Solidity for Degens*, documentation overhauls, and tutorial series for smart contract development.
 
+### Selected Work
 
-    
+- [Kadena Multi-Chain Scaffold](https://github.com/0xTrip/scaffold-kadena) — EVM template with custom Hardhat and Foundry plugins
+- [ETHGlobal Workshop: On-chain in 5 Minutes](https://www.youtube.com/watch?v=Qd6THrawTNw) — Live-coding session for hackathon participants
+- [Solidity for Degens](https://www.amazon.co.uk/stores/author/B0D9HBC1BM) — Interactive smart contract development book
 
-## Work with me
+### Contact
 
--   💬 Need a **DX audit** (docs, SDKs, examples) or **contract review**?
-    
--   🎙️ Looking for a **speaker/workshop** for your hackathon or protocol launch?
-    
+[LinkedIn](https://www.linkedin.com/in/cjweb3/) · [Twitter](https://twitter.com/SolidityDegen) · c.j.develops@outlook.com
 
-**Open to advisory chats, collabs, and long term contract work.**
+---
 
-----------
+*Most recent work is in private repositories.*
