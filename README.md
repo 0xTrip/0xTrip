@@ -28,7 +28,7 @@ Before crypto: British Army officer, firefighter, and co-founder of a startup sc
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/cjweb3/) · [Twitter](https://twitter.com/SolidityDegen) · c.j.develops@outlook.com
+[LinkedIn](https://www.linkedin.com/in/cjweb3/) · [Twitter](https://twitter.com/CJonthechain) · c.j.develops@outlook.com
 
 ---
 
