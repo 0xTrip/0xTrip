@@ -1,5 +1,7 @@
 **Director of Developer Relations** | Building developer ecosystems in blockchain infrastructure
 
+2nd Github - lack of updates may be due to private work.
+
 8+ years leading developer relations for emerging protocols. I build the programs, tooling, and teams that turn complex technology into thriving developer communities.
 
 ---
